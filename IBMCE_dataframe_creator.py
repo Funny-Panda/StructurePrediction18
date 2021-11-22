@@ -545,6 +545,7 @@ def create_total_dataframe(pickles_path):
 if __name__ == '__main__':
 
     dataset_name = 'IBM_CE_15'
+    # dataset_name = 'RCT'
     dataset_version = 'original_data'
     link_types = ['support']
     i = 1

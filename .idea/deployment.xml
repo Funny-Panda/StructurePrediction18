@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData">
+  <component name="PublishConfigData" autoUpload="Always" serverName="fzuir@210.34.58.21:22 password">
     <serverData>
-      <paths name="DISI-OLD-LTN">
+      <paths name="fzuir@210.34.58.21:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/fzuirdata/zpc/sp18" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="fzuir@210.34.58.21:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/fzuirdata/zpc/StructurePrediction18" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@210.34.58.16:22">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
@@ -10,5 +24,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
   </component>
 </project>

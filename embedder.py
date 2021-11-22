@@ -10,6 +10,8 @@ import os
 import numpy as np
 import pickle
 import argparse
+import range as range
+
 from glove_loader import SEPARATORS, STOPWORDS, REPLACINGS
 
 def save_embeddings(dataframe_path, vocabulary_path, embeddings_path, mode='texts', type='bow'):
